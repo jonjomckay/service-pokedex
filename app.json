@@ -1,0 +1,6 @@
+{
+  "name": "Boomi Flow Pokedex Service",
+  "description": "A plugin that allows your Boomi Flow apps to identify animals",
+  "repository": "https://github.com/jonjomckay/service-pokedex",
+  "keywords": ["manywho", "boomi", "pokedex", "animal", "plugin", "workflow"]
+}
